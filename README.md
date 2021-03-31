@@ -29,7 +29,8 @@ The files in this repository were used to configure the network depicted below.
 
 This diagram is located in:  Diagrams/Azure_VNet_ELK_Stack_Diagram.pdf
 
-![](./Diagrams/Azure_VNet_ELK_Stack_Diagram.pdf)
+![image](https://user-images.githubusercontent.com/48220121/113078258-9583fe00-9187-11eb-8545-a5c50d258ab9.png)
+
 
 Playbooks and files used to create the ELK server:  
 
@@ -269,9 +270,9 @@ Which file do you update to make Ansible run the playbook on a specific machine?
 
 Which URL do you navigate to in order to check that the ELK server is running?
 
-  http:/13.77.65.19:5601/app/kibana
+  - http:/13.77.65.19:5601/app/kibana
 
-  - NOTE:  The IP address is the public IP address of your ELK virtual machine.
+    - NOTE:  The IP address is the public IP address of your ELK virtual machine.
 
 
 IMPORTANT:
