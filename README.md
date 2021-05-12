@@ -29,7 +29,10 @@ The files in this repository were used to configure the network depicted below.
 
 This diagram is located in:  Diagrams/Azure_VNet_ELK_Stack_Diagram.pdf
 
-![image](https://user-images.githubusercontent.com/48220121/113078258-9583fe00-9187-11eb-8545-a5c50d258ab9.png)
+![image](https://user-images.githubusercontent.com/48220121/117921824-43fe8100-b2a6-11eb-9661-9a196d528ccd.png)
+
+
+
 
 
 Playbooks and files used to create the ELK server:  
